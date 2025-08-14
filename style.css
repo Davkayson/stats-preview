@@ -17,7 +17,7 @@
     --White-200-: #ffffff99;
 }
 
-@media screen and (max-width: 481px) {
+@media screen and (max-width: 768px) {
     
 body {
     font-family: "Inter", "Lexend Deca", sans-serif;
@@ -28,7 +28,7 @@ body {
 
 .container {
     background-color: var(--Blue-950-);
-    width: 70%;
+    width: 75%;
     margin: 5rem auto;
     border-radius: 0.5rem;
     text-align: center;
@@ -84,7 +84,7 @@ body {
 
 }
 
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 769px) {
     
 body {
     font-family: "Inter", "Lexend Deca", sans-serif;
